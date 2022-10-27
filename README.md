@@ -2,6 +2,7 @@
 C++ template files for competitive programming
 
 1.设计原则：
+
   1.C++ style, not C style；
   2.代码最后格式化，即使自己觉得不好看；
   3.驼峰命名法：
